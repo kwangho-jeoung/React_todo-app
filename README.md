@@ -5,7 +5,7 @@ React 로 만든 간단한 ToDo application
 # Quick start
 
 ```
-$ yarn start
+$ npm start
 ```
 
 # How to build
@@ -13,13 +13,13 @@ $ yarn start
 Build
 
 ```
-$ yarn build
+$ ynpm build
 ```
 
 Docker Build
 
 ```
-$ yarn dockerbuild
+$ npm dockerbuild
 ```
 
 # How to test
